@@ -1,0 +1,21 @@
+# Root
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+.env.production
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
