@@ -1,5 +1,9 @@
 # ROOMS - The Future of Private Chat
 
+
+## Live Demo
+Check out the live deployment here: [https://rooms-amber.vercel.app](https://rooms-amber.vercel.app)
+
 ## What is ROOMS?
 ROOMS is a highly secure, real-time messaging and video calling platform built for private and uninterrupted conversations. It provides a sleek, modern, and fully responsive user interface inspired by premium tools, combined with a highly fortified backend architecture.
 
@@ -16,8 +20,7 @@ ROOMS is a highly secure, real-time messaging and video calling platform built f
 - **Backend**: Node.js, Express.js, Socket.io, Firebase Admin SDK
 - **Database**: MongoDB (Mongoose)
 
-## Live Demo
-Check out the live deployment here: [https://rooms-amber.vercel.app](https://rooms-amber.vercel.app)
+
 
 ---
 
