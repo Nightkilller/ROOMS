@@ -1,7 +1,7 @@
 # ROOMS - The Future of Private Chat
 
 
-## Live Demo
+## Live 
 Check out the live deployment here: [https://rooms-amber.vercel.app](https://rooms-amber.vercel.app)
 
 ## What is ROOMS?
