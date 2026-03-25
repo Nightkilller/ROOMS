@@ -13,7 +13,7 @@ ROOMS is a highly secure, real-time messaging and video calling platform built f
 - **Firebase Authentication**: Robust Email & Password login with automated Email Verification and identity syncing.
 - **Admin Dashboard**: Comprehensive role-based analytics, user management, and active room network monitoring.
 - **Responsive Design**: Flawless experience across desktop and mobile devices featuring a gorgeous dark-mode aesthetic.
-- **Media Sharing**: Seamless image sharing and in-browser voice note recording.
+- **Media Sharing**: Seamless image sharing and in-browser voice note recordings.
 
 ## Tech Stack
 - **Frontend**: React.js, Vite, Tailwind CSS, Firebase Auth SDK, ZEGOCLOUD Prebuilt Call UI
